@@ -1,4 +1,4 @@
-ofdef dec2glag(input_number, use_titlo=False):
+def dec2glag(input_number, use_titlo=False):
     if not 1 <= input_number <= 5999:
          raise ValueError("The number must be from 1 to 5999")
     glagolitic_symbols = {
