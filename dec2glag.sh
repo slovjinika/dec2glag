@@ -8,7 +8,7 @@ dec2glag() {
     declare -A glagolitic_symbols
     glagolitic_symbols[1000]="ⱍⱎⱏⱑⱓ"
     glagolitic_symbols[100]="ⱃⱄⱅⱆⱇⱈⱉⱋⱌ"
-    glagolitic_symbols[10]="ⰹⰻⰼⰽⰾⰿⱀⱁⱂ"
+    glagolitic_symbols[10]="ⰺⰻⰼⰽⰾⰿⱀⱁⱂ"
     glagolitic_symbols[1]="ⰰⰱⰲⰳⰴⰵⰶⰷⰸ"
     
     for divisor in 1000 100 10 1; do
