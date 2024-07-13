@@ -63,7 +63,7 @@ print(result_with_titlo)
 `python dec2glag.py -t 220` 
 
 ## ⰹ or ⰺ?
-I have met the opinion that ⰹ this symbol has never been used as a denotation of a digit, although I have seen live examples when it was used. I took as a basis the normative variant (ⰺ) from the Marian Gospel (Cod. Slav. 146). If I am wrong, please correct it. 
+I have met the opinion that ⰹ this symbol has never been used as a denotation of a digit, although I have seen live examples when it was used. I took as a basis the normative variant (ⰺ) from the Gospel (Cod. Slav. 146). If I am wrong, please correct it. 
 | | | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | ⱍ (1000) | ⱎ (2000)| ⱏ (3000)| ⱑ (4000)| ⱓ (5000)|
