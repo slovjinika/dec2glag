@@ -4,7 +4,7 @@ def dec2glag(input_number, use_titlo=False):
     glagolitic_symbols = {
         1000: "ⱍⱎⱏⱑⱓ",
         100: "ⱃⱄⱅⱆⱇⱈⱉⱋⱌ",
-        10: "ⰹⰻⰼⰽⰾⰿⱀⱁⱂ",
+        10: "ⰺⰻⰼⰽⰾⰿⱀⱁⱂ",
         1: "ⰰⰱⰲⰳⰴⰵⰶⰷⰸ"
     }
     result = ""
