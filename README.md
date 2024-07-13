@@ -45,7 +45,7 @@ Arguments:
 
 # Convert 220 to Glagolitic
 result = dec2glag(220)
-print(result)` 
+print(result)
 
 # Convert 888 with titlo
 result_with_titlo = dec2glag(888, use_titlo=True)
